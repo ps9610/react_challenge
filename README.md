@@ -5,6 +5,6 @@
   - Static
   - Spread Syntax
   - rest params
-  [ ] freeze
+  - freeze
 
 - Day 2
